@@ -1,0 +1,11 @@
+{
+  "projectID": "NCCR-OD-2025-001",
+  "projectName": "Kendrapara Mangrove Restoration",
+  "state": "Odisha",
+  "district": "Kendrapara",
+  "block": "Rajkanika",
+  "village": "Iswarpur",
+  "geojson": { "type": "Polygon", "coordinates": [[[86.8841,20.4771],[86.8844,20.4773],[86.8848,20.4775],[86.8850,20.4772],[86.8841,20.4771]]] },
+  "areaInHectares": 12.5,
+  "officerName": "Ravi Sharma (NCCR Officer)"
+}

@@ -1,0 +1,22 @@
+(await ethers.getSigners())[0].address
+await registry.getProjectByKey(key);
+const key = await registry.computeKey("project-1");
+await tx.wait();
+const tx = await registry.registerProjectByID("project-1", "QmSomething");
+await registry.getAddress();
+await registry.waitForDeployment();
+const registry = await PR.deploy(admin.address);
+const [admin] = await ethers.getSigners();
+const PR = await ethers.getContractFactory("ProjectRegistryOptimized");
+const registry = await ProjectRegistry.deploy(admin);
+const admin = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266";
+const ProjectRegistry = await ethers.getContractFa
+npx hardhat console
+await registry.waitForDeployment();
+const registry = await ProjectRegistry.deploy(admin);
+const admin = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266";
+const ProjectRegistry = await ethers.getContractFa
+await ethers.getContractFactory("ProjectRegistryOptimized")
+const registry = await ProjectRegistry.deploy("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266");
+const ProjectRegistry = await ethers.getContractFa
+(await ethers.getSigners())[0].address
